@@ -11,8 +11,8 @@ Atualmente, Elixir, C/C++, ReactJS, React-Native e Python são as tecnologias qu
 
 ## Formação
 
-**Bacharelado em Engenharia Mecânica** - Universidade Federal de Pernambuco
-**Especialização em Ciência de Dados** - UNINASSAU (Cursando)
+* **Bacharelado em Engenharia Mecânica** - Universidade Federal de Pernambuco
+* **Especialização em Ciência de Dados** - UNINASSAU (Cursando)
 
 ![Followers](https://img.shields.io/github/followers/brunosantanaa?style=social)
 ![Stars](https://img.shields.io/github/stars/brunosantanaa?style=social)
