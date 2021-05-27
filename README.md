@@ -1,6 +1,6 @@
 # Bruno de Santana 
 
-[![Github](https://img.shields.io/badge/Github--black?style=flat&logo=Github&logoColor=white&link=https://www.github.com/brunosantanaa)](https://www.linkedin.com/in/bruno-santana-0aaba855/)
+[![Github](https://img.shields.io/badge/Github--black?style=flat&logo=Github&logoColor=white&link=https://www.github.com/brunosantanaa)](https://www.github.com/brunosantanaa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-santana-0aaba855/)](https://www.linkedin.com/in/bruno-santana-0aaba855/)
 [![Instagram](https://img.shields.io/badge/Instagram--ed2683?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/brunosantal/)](https://www.instagram.com/brunosantal/)
 [![Twitter](https://img.shields.io/badge/Twitter--blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/BrunoSantanaAl)](https://twitter.com/BrunoSantanaAl)
