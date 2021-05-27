@@ -23,7 +23,7 @@ Currently, Elixir, C/C++, ReactJS, React-Native and Python are the technologies 
 
 ## Interests
 
-⛹️‍♂️🎸✈🛠🎼
+⛹️‍♂️ 🎸 ✈ 🛠 🎼
 <!--
 **brunosantanaa/brunosantanaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
