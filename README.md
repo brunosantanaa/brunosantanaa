@@ -5,14 +5,15 @@
 [![Instagram](https://img.shields.io/badge/Instagram--ed2683?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/brunosantal/)](https://www.instagram.com/brunosantal/)
 [![Twitter](https://img.shields.io/badge/Twitter--blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/BrunoSantanaAl)](https://twitter.com/BrunoSantanaAl)
 
-Mechanical engineer, passionate about technology. Embedded Systems Developer at BaltarTec and asphalt production manager at Construtora ANCAR.
+Dev and Mechanical engineer, passionate about technology.
 
-Currently, Elixir, C/C++, ReactJS, React-Native and Python are the technologies that I dedicate myself to. I love to approach content such as Machine-learning, microelectronics and IoT.
+Currently, Java, C/C++, Angular, ReactJS, React-Native, Elixir and Python are the technologies that I dedicate myself to. I love to approach content such as Machine-learning, microelectronics and IoT.
 
 ## Education 🎓
 
+* **Computer Science - Software test** - Montreal Matrix College (Studying) 📚
+* **Specialization in Data Science** - UNINASSAU 🎓
 * **Bachelor of Mechanical Engineering** - Federal University of Pernambuco 👨‍🎓
-* **Specialization in Data Science** - UNINASSAU (Studying) 📚
 
 ## Projects 🤖
 
